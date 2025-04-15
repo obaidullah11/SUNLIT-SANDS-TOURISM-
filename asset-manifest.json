@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ceddbcef.js",
+    "static/js/453.3e504014.chunk.js": "/static/js/453.3e504014.chunk.js",
+    "index.html": "/index.html",
+    "main.ceddbcef.js.map": "/static/js/main.ceddbcef.js.map",
+    "453.3e504014.chunk.js.map": "/static/js/453.3e504014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ceddbcef.js"
+  ]
+}
